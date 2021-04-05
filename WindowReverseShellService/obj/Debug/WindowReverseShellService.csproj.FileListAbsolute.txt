@@ -1,0 +1,9 @@
+E:\Document\Year3\HKII\Malware\Lab\Lab1\WindowReverseShellService\WindowReverseShellService\bin\Debug\WindowReverseShellService.exe.config
+E:\Document\Year3\HKII\Malware\Lab\Lab1\WindowReverseShellService\WindowReverseShellService\bin\Debug\WindowReverseShellService.exe
+E:\Document\Year3\HKII\Malware\Lab\Lab1\WindowReverseShellService\WindowReverseShellService\bin\Debug\WindowReverseShellService.pdb
+E:\Document\Year3\HKII\Malware\Lab\Lab1\WindowReverseShellService\WindowReverseShellService\obj\Debug\WindowReverseShellService.ProjectInstaller.resources
+E:\Document\Year3\HKII\Malware\Lab\Lab1\WindowReverseShellService\WindowReverseShellService\obj\Debug\WindowReverseShellService.csproj.GenerateResource.cache
+E:\Document\Year3\HKII\Malware\Lab\Lab1\WindowReverseShellService\WindowReverseShellService\obj\Debug\WindowReverseShellService.csproj.CoreCompileInputs.cache
+E:\Document\Year3\HKII\Malware\Lab\Lab1\WindowReverseShellService\WindowReverseShellService\obj\Debug\WindowReverseShellService.exe
+E:\Document\Year3\HKII\Malware\Lab\Lab1\WindowReverseShellService\WindowReverseShellService\obj\Debug\WindowReverseShellService.pdb
+E:\Document\Year3\HKII\Malware\Lab\Lab1\WindowReverseShellService\WindowReverseShellService\obj\Debug\WindowReverseShellService.csprojAssemblyReference.cache
